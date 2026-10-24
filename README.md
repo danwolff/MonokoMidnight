@@ -64,7 +64,7 @@ Or set it in `Preferences.sublime-settings`:
 
 ## License
 
-The Chambana License, an MIT-style license. See [LICENSE](LICENSE).
+[The Unlicense](https://unlicense.org) (public domain). See [LICENSE](LICENSE).
 
 Monokai is by Wimer Hazenberg, and Sublime Text's version of it is by Sublime HQ
 Pty Ltd. The license covers only the changes in this package.
